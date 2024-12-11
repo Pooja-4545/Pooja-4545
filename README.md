@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" alt="">
+<img src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" alt=""height="40%" width="40%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-4545&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-4545" /> </p>
 
